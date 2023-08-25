@@ -1,0 +1,12 @@
+left		9
+
+left
+4
+down 3
+			up
+2
+right
+
+
+
+5

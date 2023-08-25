@@ -1,0 +1,1 @@
+cob.o: ../cob.cpp

@@ -1,0 +1,4 @@
+Student A: %84
+Student B: %78
+Student C: %64
+Student D: %96
